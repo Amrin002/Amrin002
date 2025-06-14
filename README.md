@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amrin Alamsyah</h1>
-<h3 align="center">A Junior Android developer from Indonesia</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amrin002/Amrin002/main/img/github-header-image.png" alt="Hi, I'm Amrin Alamsyah" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrin002&label=Profile%20views&color=0e75b6&style=flat" alt="amrin002" /> </p>
 
